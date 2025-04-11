@@ -6,7 +6,8 @@ Given a visual puzzle, the goal is to leverage vision-language models (VLMs) to 
 **Options:**  
 - [7, 9, 1, 5]
 
-![Alt text]([https://example.com/path/to/image.png](https://github.com/declare-lab/LLM-PuzzleTest/blob/master/PuzzleVQA/data/images/grid_number/grid_number_0000.png))
+![Alt text](https://github.com/declare-lab/LLM-PuzzleTest/raw/master/PuzzleVQA/data/images/grid_number/grid_number_0000.png)
+
 ## Observations on Model Performance
 
 We tested four models—**Gemma**, **Llama**, **Qwen**, and **Pixtral**—to evaluate their performance both **without fine-tuning** and **after fine-tuning** on **20 samples**. Below are the results:
