@@ -1,6 +1,11 @@
 # PuzzleVQA
 Given a visual puzzle, the goal is to leverage vision-language models (VLMs) to analyze the image, apply reasoning to understand patterns, relationships, and logical rules, and select the correct answer from the provided options. For this we have used PuzzleVQA dataset.
 
+**Question:** What is the missing number of the part denoted with a question mark?
+
+**Options:**  
+- [7, 9, 1, 5]
+
 ## Observations on Model Performance
 
 We tested four models—**Gemma**, **Llama**, **Qwen**, and **Pixtral**—to evaluate their performance both **without fine-tuning** and **after fine-tuning** on **20 samples**. Below are the results:
