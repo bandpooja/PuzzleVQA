@@ -15,7 +15,7 @@ Given a visual puzzle, the goal is to leverage vision-language models (VLMs) to 
 
 ![Result](result.png)
 
-We tested four models—**Gemma**, **Llama**, **Qwen**, and **Pixtral**—to evaluate their performance both **without fine-tuning** and **after fine-tuning** on **20 samples**. Below are the results:
+We have fine tuned models—**Gemma**, **Llama**, **Qwen**, and **Pixtral** with 1800 samples and tested to evaluate their performance both **without fine-tuning** and **after fine-tuning** on **20 samples**. Below are the results:
 
 | Model   | Answer without Fine-tuning | Answer after Fine-tuning |
 |---------|----------------------------|--------------------------|
